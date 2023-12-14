@@ -43,7 +43,7 @@ streamlit.dataframe(fruityvice_normalized)
 import snowflake.connector
 #requirements.txt
 
-snowflake-connector-python[pandas]
+snowflake-connector-python
 
 #cffi==1.15.0
 
